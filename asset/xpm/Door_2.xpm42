@@ -1,0 +1,224 @@
+!XPM42
+75 75 147 2 c
+   #000000FF
+.  #333138FF
+X  #343239FF
+o  #353339FF
+O  #35333AFF
++  #36343AFF
+@  #36343BFF
+#  #36353BFF
+$  #37353BFF
+%  #37353CFF
+&  #37363CFF
+*  #38363CFF
+=  #38373CFF
+-  #39373CFF
+;  #39373DFF
+:  #39383DFF
+>  #3A383DFF
+,  #3A383EFF
+<  #3B3A3EFF
+1  #3C3B3FFF
+2  #3D3C3FFF
+3  #3D3C40FF
+4  #3D3D40FF
+5  #3E3D40FF
+6  #3E3D41FF
+7  #3F3E41FF
+8  #3F3D42FF
+9  #3F3E42FF
+0  #403F42FF
+q  #413F43FF
+w  #404042FF
+e  #414042FF
+r  #414043FF
+t  #414143FF
+y  #424143FF
+u  #414044FF
+i  #414144FF
+p  #424144FF
+a  #424244FF
+s  #434244FF
+d  #434344FF
+f  #434245FF
+g  #434345FF
+h  #444345FF
+j  #444445FF
+k  #454546FF
+l  #454547FF
+z  #474647FF
+x  #464548FF
+c  #474648FF
+v  #484748FF
+b  #484848FF
+n  #484849FF
+m  #494949FF
+M  #49484AFF
+N  #49494AFF
+B  #49494BFF
+V  #4A494AFF
+C  #4A4A4AFF
+Z  #4B4B4BFF
+A  #4B4A4CFF
+S  #4B4B4CFF
+D  #4C4C4CFF
+F  #4C4C4DFF
+G  #4D4D4DFF
+H  #4D4C4EFF
+J  #4D4D4EFF
+K  #4D4D4FFF
+L  #4E4E4EFF
+P  #4F4F4FFF
+I  #4F4E50FF
+U  #505050FF
+Y  #505051FF
+T  #515151FF
+R  #525152FF
+E  #525252FF
+W  #525253FF
+Q  #535353FF
+!  #535354FF
+~  #545454FF
+^  #545455FF
+/  #555455FF
+(  #555555FF
+)  #555556FF
+_  #565656FF
+`  #565657FF
+'  #575757FF
+]  #585758FF
+[  #585858FF
+{  #585859FF
+}  #595959FF
+|  #59595AFF
+ . #5A5A5AFF
+.. #5B5B5BFF
+X. #5B5B5CFF
+o. #5C5C5CFF
+O. #5D5D5DFF
++. #5D5D5EFF
+@. #5E5E5EFF
+#. #5E5E5FFF
+$. #5F5F5FFF
+%. #5F5F60FF
+&. #605F60FF
+*. #606060FF
+=. #606061FF
+-. #616161FF
+;. #626262FF
+:. #636363FF
+>. #646464FF
+,. #656565FF
+<. #666666FF
+1. #676767FF
+2. #686868FF
+3. #686869FF
+4. #696969FF
+5. #6A6A6AFF
+6. #6B6B6BFF
+7. #6B6B6CFF
+8. #6C6C6CFF
+9. #6D6D6DFF
+0. #6E6E6EFF
+q. #6F6F6FFF
+w. #706F70FF
+e. #707070FF
+r. #717071FF
+t. #717171FF
+y. #727272FF
+u. #737373FF
+i. #737374FF
+p. #747474FF
+a. #757575FF
+s. #757576FF
+d. #767676FF
+f. #777777FF
+g. #787878FF
+h. #797979FF
+j. #7A7A7AFF
+k. #7B7B7BFF
+l. #7C7C7CFF
+z. #7D7D7DFF
+x. #7E7E7EFF
+c. #7F7F7FFF
+v. #808080FF
+b. #818181FF
+n. #828282FF
+m. #838383FF
+M. #00000000
+                                                                                                                                                      
+  c.c.c.c.c.c.c.c.c.c.h.d.g.g.q.0.p.l.m.n.b.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.  
+  c.c.c.c.c.c.c.c.g.<. .$.8.9.y.z.v.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.c.  
+  g.g.g.g.g.g.g.g.4.~ ..0.t.y.l.g.g.g.k.c.k.g.g.g.g.g.g.g.g.g.k.c.c.c.z.g.g.g.h.c.c.c.c.c.j.g.g.g.g.g.g.g.g.g.g.g.l.g.g.g.g.g.g.g.g.g.g.g.g.g.g.g.f.  
+  t.t.t.t.t.t.t.5.( [ 1.q.d.h.t.t.t.t.t.y.t.t.t.t.t.t.t.t.t.t.t.y.y.y.y.t.t.t.t.y.j.j.d.y.t.t.t.t.t.t.t.t.t.t.t.t.y.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.e.  
+  t.t.t.t.t.t.e.O.( -.6.6.u.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.e.  
+  t.t.t.t.t.t.5.~ o.5.6.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.e.  
+  t.t.t.t.t.t.5.} <.e.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.q.  
+  t.t.t.t.9.t.$.<.e.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.9.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.9.  
+  t.t.t.8.5.e.<.e.t.t.t.t.t.t.e.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.t.e.t.t.t.t.t.t.t.t.t.t.t.e.0.t.t.t.t.t.e.t.t.t.t.e.9.t.t.t.t.t.t.t.t.t.t.t.t.t.5.  
+  t.t.8.5.5.5.e.t.q.t.t.9.9.9.8.t.t.t.t.e.q.8.8.8.t.t.t.q.e.9.t.0.9.0.t.t.t.t.t.q.t.t.t.t.e.>.8.e.9.9.e.t.8.e.t.t.0.8.t.9.t.t.t.q.t.t.t.9.e.e.q.0.4.  
+  6.5.5.5.5.8.q.8.5.5.5.5.5.8.t.t.q.0.9.5.5.5.5.5.5.5.5.5.5.5.5.5.5.8.0.q.0.0.8.5.5.6.q.9.4...5.5.5.5.5.5.8.0.8.5.5.5.5.0.0.8.5.5.5.5.5.5.5.5.5.5.4.  
+  4.4.4.4.4.8.4.4.4.4.4.4.1.4.5.5.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.4.5.4.4.4.4.4.4.4.4.2.o.~ $.4.4.4.4.4.4.4.2.,.,.,.,.<.4.4.4.4.4.4.4.4.4.4.4.4.    
+   . . . . . . . . . . . . . . . . . . . . . ................... . . . . . . . . . . ...o.@.@.O......... . . . . . . . . . . . . . . . . . . . . .  [ 
+    6.6.6.6.6.6.6.6.6.6.6.6.6.6.6.6.6.6.6.6.2.:.:.:.:.:.:.:.:.:.$.O.o. .O.~ O. .o.O.$.:.:.:.:.:.:.:.:.:.2.6.6.6.6.6.6.6.6.6.6.6.6.6.<.-.$.-.6.6.:.  M.
+M.  h.m.n.c.c.c.c.c.c.k.c.c.c.c.c.c.c.c.c.j.$.:.:.,.,.,.,.,.,.,.-.*.o...>.} >.@.O.*.*.,.1.4.4.2.,.,.,.,.1.n.m.m.b.c.c.c.c.c.c.c.c.c.x.t.p.z.c.c.8.  M.
+M.  8.f.p.u.u.a.a.a.p.d.a.g.f.p.a.k.h.a.t.1...:.<.5.5.5.5.5.5.5.,.1.@.:.4.:.4.<.$.1.>.5.5.5.5.5.5.5.5.5.<.p.h.h.f.a.a.a.a.a.h.a.a.a.a.p.9.p.a.e.@.  M.
+M.  8.0.5.5.t.t.0.6.q.g.t.t.e.5.0.t.t.t.6.:...>.5.5.5.5.5.5.5.5.;.1.$.<.4.e.2.<.$.1.;.5.5.5.5.5.5.5.5.5.<.t.q.t.t.t.t.t.q.q.t.8.9.0.t.e.6.4.0.1.@.  M.
+M.  8.0.5.5.5.e.8.5.u.u.8.t.e.5.6.e.0.9.4.:...>.5.5.5.5.4.:.$.@.:.4.$.<.2.5.1.<.$.4.:.@.$.:.4.5.5.5.5.5.<.t.8.e.t.t.t.5.5.5.8.5.5.5.q.e.5.4.8.<.@.  M.
+M.  8.0.5.5.5.q.8.5.8.9.5.q.e.5.5.9.5.5.4.:...>.5.5.5.>.O.,.5.5.=.W $.<.2.4.2.<.$.W =.5.5.,.O.>.5.5.5.5.<.t.6.6.t.t.9.5.5.5.8.5.5.5.5.0.1.9.5.<.@.  M.
+M.  8.0.5.5.5.5.5.5.5.5.5.6.8.5.5.5.5.5.4.:...>.5.2.@.:.4.&.| u 6 O I #.<.<.<.#.I O 6 u | &.4.:.@.2.5.5.<.t.6.5.8.8.5.5.5.4.5.6.5.5.5.5.1.0.5.<.@.  M.
+M.  8.8.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.4.:...>.2.$.4.-.c & X X X X X , B *.B , X X X X X & c -.4.$.2.5.<.t.6.5.5.5.5.5.5.4.5.6.5.5.5.4.6.5.5.<.@.  M.
+M.  <.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.<.-...;.*.<.W q X X X X X X X X X * X X X X X X X X X q W <.*.1.<.6.2.2.2.2.2.2.2.,.4.2.2.2.2.>.6.2.2.:.O.  M.
+M.  -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.*. .} *.<.H @ X X X X X X X X X X X X X X X X X X X X X @ H <.-.O.-.-.-.-.-.-.-.-.-.o.:.-.-.@.$.;.-.-.$.'   M.
+M.  ~ $.-.-.-.-.@.O.-.-.-.-.-.$.O.o.~ ~ ~ ~ [ 4.K X X X X X X X X X X X X X X X X X X X X X X X X X K 4.[ [ @.-.-.-.-.-.-.@.O.-.-.-.-.-.$.O...~     M.
+M.    *.>.<.<.<.-...@.@.O.-.o...} ~ ~ ~ ~ ~ -.+.3 X X X X X X X X X X X X X X X X X X X X X X X X X 3 +.-.[ ;.,.<.>.:.<.<.<.<.,.;.......' ~ ~ ~   M.M.
+M.M.    o.o.o.o.o.o.@.@.O.o.o.....o._ ~ ~ o. .8 X X X X X X X X X X X X X X X X X X X X X X X X X X X 8  .o._  .o.o.o.o.@.@.@.@.O.o...O.} ' ~ ~   M.M.
+M.M.M.  2.>.2.,.2.5.9.8.6.9.8.2.2.4.,.( _ *.M X X X X X X X X X X X X X X X X X X X X X X X X X X X X X M *. .-.2.<.2.2.8.9.6.8.9.5.2.2.:.;.' ~   M.M.
+M.M.M.  5.5.2.5.6.x.c.j.f.x.j.e.5.5.4.:.' ..O X X X X X X X X X X X X X X X X X X X X X X X X X X X X X O ..1.2.4.5.5.u.k.x.f.j.x.f.6.5.2.5.>.[   M.M.
+M.M.M.  e.2.5.0.z.h.0.a.g.u.e.d.e.5.5.>.[ x X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X l 5.4.5.5.u.z.d.0.g.g.e.y.d.8.5.2.6...  M.M.
+M.M.M.  6.4.5.z.h.9.q.0.d.f.8.e.a.9.5.1.( * X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X * 2.2.5.t.z.d.5.y.0.g.a.6.y.p.5.4.<...  M.M.
+M.M.M.  5.5.p.g.0.q.a.6.2.p.2.2.q.u.5.2.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . 1.2.5.a.d.2.d.y.2.9.t.,.8.q.e.5.,...  M.M.
+M.M.M.  0.5.p.d.1.a.u.2.<.e.2.<.t.u.5.5._ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . 3.5.5.j.t.<.h.e.<.2.e.1.1.a.0.5.4...  M.M.
+M.M.M.  0.5.t.y.6.9.e.a.d.u.2.9.y.1.5.5.` X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . r.5.5.p.y.9.8.p.d.a.9.0.6.q.1.5.4...  M.M.
+M.M.M.  f.5.4.5.y.d.2.9.e.2.q.h.0.2.5.8.] X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . s.e.5.2.0.h.q.2.e.9.2.g.y.5.4.5.y...  M.M.
+M.M.M.  j.5.5.2.t.j.9.2.1.5.k.t.5.4.5.9.{ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . f.y.5.4.5.t.k.5.1.2.9.j.t.2.5.5.d...  M.M.
+M.M.M.  f.y.5.4.6.u.l.5.5.u.d.t.2.5.5.a.^ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.h.5.5.2.t.d.u.5.5.l.u.6.4.5.y.u...  M.M.
+M.M.M.  p.g.5.5.1.y.f.y.5.k.a.2.5.5.p.q.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.u.p.5.5.2.a.k.5.y.f.y.1.5.5.g.e...  M.M.
+M.M.M.  u.a.t.5.5.2.d.j.a.d.e.1.5.8.f.9.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.t.f.8.5.1.e.d.a.j.d.2.5.5.y.a.q...  M.M.
+M.M.M.  u.9.2.5.a.8.e.f.g.a.1.0.6.8.e.8.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.t.4.5.6.g.2.a.g.f.e.,.e.5.t.0.q...  M.M.
+M.M.M.  t.2.5.f.k.y.4.d.g.8.9.p.d.8.5.>.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.4.5.9.l.d.9.9.j.u.4.e.f.y.5.2.8...  M.M.
+M.M.M.  8.4.a.j.a.0.8.j.t.4.q.0.g.d.5.<.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . t.2.5.l.h.0.q.0.h.0.5.0.a.f.t.4.1...  M.M.
+M.M.M.  8.5.p.u.2.4.y.g.t.<.2.q.t.e.5.4.) X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . t.4.5.h.e.<.2.k.p.4.1.4.y.t.9.5.1...  M.M.
+M.M.M.  j.5.1.t.0.u.g.g.4.6.e.f.a.2.5.8.{ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . f.y.5.2.p.0.a.g.u.4.6.u.g.t.1.5.d...  M.M.
+M.M.M.  f.t.4.5.d.p.d.5.1.t.a.f.0.4.5.p.( X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . p.g.5.4.0.f.a.u.1.4.d.p.d.5.4.t.u...  M.M.
+M.M.M.  a.d.6.4.2.4.4.,.8.4.2.4.2.5.y.e.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.p.y.5.2.4.4.2.1.8.2.4.2.4.6.d.e...  M.M.
+M.M.M.  u.t.q.5.5.q.g.e.5.u.t.5.5.8.a.8.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.t.y.6.5.5.a.f.2.y.e.q.5.5.y.t.q...  M.M.
+M.M.M.  u.4.5.5.6.d.y.4.1.e.f.0.5.5.8.8.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.e.1.5.5.0.f.e.1.4.y.d.6.5.5.0.q...  M.M.
+M.M.M.  t.2.5.5.0.f.q.1.4.5.y.a.5.5.4.<.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . i.6.4.5.5.a.y.5.4.1.q.f.0.5.5.2.9...  M.M.
+M.M.M.  9.4.5.5.f.y.2.4.5.1.t.f.8.5.5.<.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X . t.2.5.5.8.f.t.1.5.4.2.y.f.5.5.4.2...  M.M.
+M.M.M.  2.5.5.e.a.t.1.5.5.4.4.p.f.5.5.2.~ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X / 2.5.5.f.p.4.4.5.5.1.t.a.e.5.5.,...  M.M.
+M.M.M.  2.5.5.f.a.1.8.l.l.q.1.y.d.q.5.5._ X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X _ 5.5.q.d.y.1.y.l.d.6.1.a.f.5.5.2...  M.M.
+M.M.M.  4.5.t.d.q.2.l.h.a.f.q.2.d.d.5.5.` X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X ` 5.5.d.d.2.t.l.a.g.d.2.q.d.t.5.4...  M.M.
+M.M.M.  4.5.p.a.1.a.a.0.2.a.h.<.q.j.5.5.` X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X ` 5.5.j.q.<.h.a.2.0.a.a.1.a.p.5.4...  M.M.
+M.M.M.  4.5.p.t.1.2.e.2.8.t.4.<.9.u.5.5._ X X X X X X X X X X X X X X X 4 t t t t O X X X X X X X X X X X X _ 5.5.g.9.<.4.e.<.0.e.2.1.q.e.5.4...  M.M.
+M.M.M.  u.5.9.8.u.u.5.u.l.a.1.8.t.2.5.8.[ X X X X X X X + = = - o O t t t t t 0 X X X X X X X X X X X X X X X.e.5.8.t.p.9.9.j.g.e.,.y.6.4.5.y.(   M.M.
+M.M.M.  d.5.5.1.q.g.h.l.d.<.6.d.1.4.5.9.{ X X X X X X O ; 5 5 5 r r r y e < y t r r * X X X X X X X X X X X O.y.5.4.1.d.f.d.k.e.,.u.q.1.5.5.p.~   M.M.
+M.M.M.  u.y.5.5.2.q.y.u.1.0.u.1.5.5.5.a.~ X X X X X $ e e e e e 5 X : b d h m e X X X X X X X X X X X X X X { h.5.5.5.1.u.y.q.4.t.q.2.5.5.y.t.~   M.M.
+M.M.M.  q.d.0.5.5.2.1.1.2.1.1.5.5.6.a.2.Y X X X X X X X X > < w z z b v 7 m D D z z s t t & * X X X X X X X { u.a.6.5.5.1.1.2.1.1.2.5.5.0.d.6.~   M.M.
+M.M.    q.t.d.a.9.6.5.5.5.5.5.9.e.f.y.$.Y + X X X X X + + 1 6 j 5 5 d G i 9 f p 6 5 - $ $ 0 r $ $ O X X X % } t.u.f.e.9.5.5.5.5.5.6.9.a.d.0.-.~   M.M.
+M.    j.6.5.5.8.t.8.<.<.<.<.2.u.y.9.<.} @.! O X X f x N 0 b m m m C P n h P G C P P Z m m g S D P r X X # 7.0.5.5.5.q.t.2.<.<.5.0.f.p.8.8.,._ ..    M.
+M.  y.c.x.x.h.g.z.0.0.0.e.y.y.y.e.-.O.-.6.h.A < 2 0 f 0 n m m m C G D 6 U ~ ~ ~ T L C m m m s : 6 j h + 3.j.c.x.x.x.x.x.u.y.y.y.8.a.u.5.:.O.$.5.<.  M.
+    t.f.l.l.l.d.h.l.l.l.l.l.l.l.k.g.g.g.g.q.[ S F J c C Z G E T U T k v T E E R Y Q T U G Z Z s r F F J w.t.j.l.l.l.l.l.l.l.l.l.f.1.p.j.g.g.g.f.:.    
+  t.t.6.q.t.t.9.d.t.t.t.t.t.t.t.t.t.t.t.q...O.c p a T ~ T L E E U U U ' U U U P V E T U U Q ~ U P l y %.t.t.4.t.t.t.t.t.t.t.t.t.e.:.,.y.t.t.t.4...*.  
+  t.t.4.t.t.t.6.e.t.t.t.t.t.t.t.t.t.t.t.t.4..._ m P L L T ~ ~ ~ ~ ~ [  .~ ~ ~ ~ L } ~ ~ ~ ~ T D m G ( 0.t.6.q.t.t.t.t.t.t.t.t.t.t.5.2.t.t.t.t.t.@.*.  
+  t.5.e.t.t.8.q.4.t.t.t.t.t.t.t.t.t.t.t.t.e.@.~ U U T T E ~ ~ ~ [ } o. .} } ~ ~ Q E  .} } ( E U U D o.t.t.5.t.t.t.t.t.t.t.t.t.t.t.5.4.t.t.t.t.t.6...  
+  t.4.t.t.t.5.t.0.8.t.t.t.t.t.t.t.t.t.t.t.t.$.E m m m C L L L L E Q ' ~ Q Q L L T U ( ~ ( T L Z Z Z o.t.e.5.t.t.t.t.t.t.t.t.t.t.t.q.4.t.t.t.t.t.9.o.  
+  0.8.t.t.8.0.t.e.5.t.t.t.t.t.t.t.t.t.t.t.t.1.Q P P U [ :.@.' ~ ~ ( o.} ~ ~ ~ ~ ~ ~ ~ [ ......~ ~ ~ O.e.4.t.t.t.t.t.t.t.t.t.t.t.t.t.9.t.t.t.t.t.t.>.  
+  :.:.:.;.o.:.:.:.*.>.:.:.:.:.:.:.:.*.@.@.@. .~ M.[ O.O.O...               .@.~  . . . .[             ;.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.@.@.@.@.@._   
+                                                                >.;...[                     2.2.:...                                                  
+M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.  2.4.<.<.  ;.@.    1.4.4.<.2.1.:.:.  2.5.2.1.O.  M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.
+M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.    2.5.4.              4.5.5.5.                  M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.
+M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.        O.2.2.1.1.:.    ' '   *.,.<.<.<.>.  M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.
+M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.        2.,.,.-.            5.4.<.>.*.  M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.
+M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.            M.M.M.M.              M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.M.
