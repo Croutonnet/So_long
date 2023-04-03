@@ -6,7 +6,7 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/27 15:27:00 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/03/02 13:52:42 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/03 14:25:29 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -42,7 +42,7 @@ int	valid_extension(char *mappath)
 		return (ft_strncmp(mappath, ".ber", 5));
 }
 
-int	if_bad(char c)
+int	if_bad_character_in_map(char c)
 {
 	if (c == '1' || c == 'c' || c == 'o'
 		|| c == 'e' || c == 'x')

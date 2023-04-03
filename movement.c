@@ -6,7 +6,7 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/19 14:32:10 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/02/20 15:29:01 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/03 15:01:53 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,12 +41,12 @@ void	move_player(t_game *t_game, int newx, int newy)
 	}
 	else if (t_game->t_map.mappe[y - newy][x - newx] == 'e')
 	{
-		if (t_game->coll == 0)
+		if (t_game->nb_collectible_2 == 0)
 			initialize_error(t_game, FINISHGAME, "Bravo¡");
 		return ;
 	}
 	else if (t_game->t_map.mappe[y - newy][x - newx] == 'c')
-		t_game->coll--;
+		t_game->nb_collectible_2--;
 	else if (t_game->t_map.mappe[y - newy][x - newx] == 'x')
 		initialize_error(t_game, FINISHGAME, "Don't hug Jesus¡");
 	move(t_game, newx, newy);

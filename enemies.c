@@ -6,15 +6,15 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/14 13:16:10 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/02/20 15:54:00 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/03 12:59:30 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "so_long.h"
 
-void	put_enemie(t_game *t_game, int x, int y)
+void	spawn_enemie(t_game *t_game, int x, int y)
 {
-	mlx_image_to_window(t_game->mlx, t_game->nowimg.en, (x * 75), (y * 75));
+	mlx_image_to_window(t_game->mlx, t_game->nowimg.en, (x * SIZE), (y * SIZE));
 }
 
 void	wichmove(t_game *t_game, int d)

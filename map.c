@@ -6,7 +6,7 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 15:06:14 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/03/02 13:45:17 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/03 14:25:26 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,7 +41,7 @@ void	sizemap(char *new, t_game *t_game)
 	}
 }
 
-void	spawn_map(t_game *t_game, t_map *t_map)
+void	generate_map(t_game *t_game, t_map *t_map)
 {
 	int		x;
 	int		y;
@@ -52,7 +52,7 @@ void	spawn_map(t_game *t_game, t_map *t_map)
 		x = 0;
 		while (x < t_map->widthnb)
 		{
-			wich_move(t_game, t_map, x, y);
+			which_move(t_game, t_map, x, y);
 			x++;
 		}
 		y++;
@@ -89,5 +89,5 @@ void	replace_map(t_game *t_game)
 	delete_map(t_game, &t_game->oldimg);
 	t_game->oldimg = t_game->nowimg;
 	initialize_image(t_game);
-	spawn_map(t_game, &t_game->t_map);
+	generate_map(t_game, &t_game->t_map);
 }

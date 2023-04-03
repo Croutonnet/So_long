@@ -6,50 +6,54 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/14 17:16:20 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/02/23 16:48:15 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/03 15:01:53 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "so_long.h"
 
-void	put_collectible(t_game *t_game, int x, int y)
+void	spawn_collectible(t_game *t_game, int x, int y)
 {
-	put_background(t_game, x, y);
-	mlx_image_to_window(t_game->mlx, t_game->nowimg.collectible[t_game->idcol],
-		(x * 75), (y * 75));
+	spawn_background(t_game, x, y);
+	mlx_image_to_window(t_game->mlx,
+		t_game->nowimg.collectible[t_game->i_collectible],
+		(x * SIZE), (y * SIZE));
 }
 
-void	put_player(t_game *t_game, int x, int y)
+void	spawn_player(t_game *t_game, int x, int y)
 {
-	put_background(t_game, x, y);
-	if (t_game->idan == 0)
-		mlx_image_to_window(t_game->mlx, t_game->nowimg.pl, (x * 75), (y * 75));
+	spawn_background(t_game, x, y);
+	if (t_game->i_animation_player == 0)
+		mlx_image_to_window(t_game->mlx,
+			t_game->nowimg.pl, (x * SIZE), (y * SIZE));
 	else
 	{
 		mlx_image_to_window(t_game->mlx,
-			t_game->nowimg.pl_1, (x * 75), (y * 75));
-		t_game->idan = 0;
+			t_game->nowimg.pl_1, (x * SIZE), (y * SIZE));
+		t_game->i_animation_player = 0;
 	}
 }
 
-void	put_wall(t_game *t_game, int x, int y)
-{
-	mlx_image_to_window(t_game->mlx, t_game->nowimg.wall, (x * 75), (y * 75));
-}
-
-void	put_background(t_game *t_game, int x, int y)
+void	spawn_wall(t_game *t_game, int x, int y)
 {
 	mlx_image_to_window(t_game->mlx,
-		t_game->nowimg.background[t_game->idbck], (x * 75), (y * 75));
+		t_game->nowimg.wall, (x * SIZE), (y * SIZE));
 }
 
-void	put_exit(t_game *t_game, int x, int y)
+void	spawn_background(t_game *t_game, int x, int y)
 {
-	put_background(t_game, x, y);
-	if (t_game->coll > 0)
+	mlx_image_to_window(t_game->mlx,
+		t_game->nowimg.background[t_game->i_background],
+		(x * SIZE), (y * SIZE));
+}
+
+void	spawn_exit(t_game *t_game, int x, int y)
+{
+	spawn_background(t_game, x, y);
+	if (t_game->nb_collectible_2 > 0)
 		mlx_image_to_window(t_game->mlx,
-			t_game->nowimg.ex[0], (x * 75), (y * 75));
+			t_game->nowimg.ex[0], (x * SIZE), (y * SIZE));
 	else
 		mlx_image_to_window(t_game->mlx,
-			t_game->nowimg.ex[1], (x * 75), (y * 75));
+			t_game->nowimg.ex[1], (x * SIZE), (y * SIZE));
 }
