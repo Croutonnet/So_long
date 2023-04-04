@@ -6,7 +6,7 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/14 12:56:14 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/04/03 15:02:35 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/04 10:19:04 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,8 @@
 # define MAP "map/norm.ber"
 # define SIZE 75
 # define BIG "BIG MAP"
-# define ERRORMAP "Map Invalid¡"
-# define FINISHGAME "Game finished¡"
+# define ERRORMAP "Map invalid¡"
+# define FINISHGAME "Game closed¡"
 # define BACK1 "asset/xpm/BCK0.xpm42"
 # define BACK2 "asset/xpm/BCK1.xpm42"
 # define BACK3 "asset/xpm/BCK2.xpm42"
