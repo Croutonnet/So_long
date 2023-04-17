@@ -6,7 +6,7 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 15:06:14 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/04/03 14:25:26 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/17 14:13:33 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,11 +37,11 @@ void	sizemap(char *new, t_game *t_game)
 	if (t_game->t_map.heightnb > 18 || t_game->t_map.widthnb > 34)
 	{
 		free(new);
-		initialize_error(t_game, BIG, "Maximum size: (34X18)¡");
+		initialize_error(t_game, BIG, "Grosseur maximum de la map: (34X18)¡");
 	}
 }
 
-void	generate_map(t_game *t_game, t_map *t_map)
+void	spawn_map(t_game *t_game, t_map *t_map)
 {
 	int		x;
 	int		y;
@@ -52,12 +52,13 @@ void	generate_map(t_game *t_game, t_map *t_map)
 		x = 0;
 		while (x < t_map->widthnb)
 		{
-			which_move(t_game, t_map, x, y);
+			wich_move(t_game, t_map, x, y);
 			x++;
 		}
 		y++;
 	}
-	move_string(t_game);
+	if (BONUS > 0)
+		move_string(t_game);
 }
 
 void	map(t_game *t_game)
@@ -89,5 +90,5 @@ void	replace_map(t_game *t_game)
 	delete_map(t_game, &t_game->oldimg);
 	t_game->oldimg = t_game->nowimg;
 	initialize_image(t_game);
-	generate_map(t_game, &t_game->t_map);
+	spawn_map(t_game, &t_game->t_map);
 }

@@ -11,7 +11,8 @@ FILE	=	main.c\
 			verif_map.c\
 			enemies.c\
 			error.c\
-			animation.c
+			animation.c\
+			finish_game.c
 
 LIBDIR = src/libft/
 
@@ -35,6 +36,9 @@ libft: mlx
 mlx:
 	@$(MAKE) -C $(MLXDIR)
 
+bonus: CC += -D BONUS
+bonus: fclean all
+
 clean:
 	@$(RM) $(OFILE)
 	@$(RM) $(LIBDIR)*.o
@@ -49,5 +53,8 @@ run: all
 
 mem: all
 	leaks -atExit -- ./so_long
+
+install:
+	brew install glfw3
 
 re:	fclean all

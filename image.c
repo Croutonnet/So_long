@@ -6,7 +6,7 @@
 /*   By: rapelcha <rapelcha@student.42quebec.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/25 14:29:15 by rapelcha          #+#    #+#             */
-/*   Updated: 2023/04/03 14:25:30 by rapelcha         ###   ########.fr       */
+/*   Updated: 2023/04/17 14:02:23 by rapelcha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,18 +61,18 @@ mlx_image_t	*load_image(mlx_t *mlx, char *path)
 	return (img);
 }
 
-void	which_move(t_game *t_game, t_map *t_map, int x, int y)
+void	wich_move(t_game *t_game, t_map *t_map, int x, int y)
 {
 	if (t_map->mappe[y][x] == '1')
-		spawn_wall(t_game, x, y);
+		put_wall(t_game, x, y);
 	else if (t_map->mappe[y][x] == 'o' || t_map->mappe[y][x] == '0')
-		spawn_background(t_game, x, y);
+		put_background(t_game, x, y);
 	else if (t_map->mappe[y][x] == 'x' || t_map->mappe[y][x] == 'X')
-		spawn_enemie(t_game, x, y);
+		put_enemie(t_game, x, y);
 	else if (t_map->mappe[y][x] == 'p' || t_map->mappe[y][x] == 'P')
-		spawn_player(t_game, x, y);
+		put_player(t_game, x, y);
 	else if (t_map->mappe[y][x] == 'e' || t_map->mappe[y][x] == 'E')
-		spawn_exit(t_game, x, y);
+		put_exit(t_game, x, y);
 	else if (t_map->mappe[y][x] == 'c' || t_map->mappe[y][x] == 'C')
-		spawn_collectible(t_game, x, y);
+		put_collectible(t_game, x, y);
 }
